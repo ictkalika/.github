@@ -1,4 +1,5 @@
 # ICT Kalika
+> Playground of future minds
 
 ICT Club of Kalika is Butwal's leading IT club and premier student-led technology organization. Founded in 2022 at Kalika Manavgyan Secondary School, we are a vibrant community of over 50 active members passionate about technology, innovation, and digital transformation across Nepal.
 
